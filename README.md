@@ -17,6 +17,16 @@ Bu proje, .NET Web Forms teknolojisi kullanılarak geliştirilmiş bir haber çe
 - NLog kütüphanesi ile hata durumlarında loglama
 - Kategori ve tarih gibi kriterlere göre filtreleme alt yapısı
 
+## Ekran Görüntüleri
+
+### Ana Sayfa
+
+![Ana Sayfa](Content/image1.png)
+
+### Haber Detayı
+
+![Haber Detayı](Content/image2.png)
+
 ## Kullanılan Teknolojiler
 
 - ASP.NET Web Forms
@@ -36,12 +46,6 @@ Bu proje, .NET Web Forms teknolojisi kullanılarak geliştirilmiş bir haber çe
 - `Content/image1.png`, `Content/image2.png` → Ödev için ekran görüntüleri
 - `NLog.config` → Loglama yapılandırma dosyası
 
-## Görseller
-
-Aşağıdaki ekran görüntülerinde uygulamanın ana sayfası ve detay sayfası gösterilmektedir:
-
-- `Content/image1.png` → Ana sayfa (Home.aspx)
-- `Content/image2.png` → Detay sayfası (NewsDetail.aspx)
 
 ## Gereksinimler
 
