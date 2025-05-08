@@ -1,0 +1,9 @@
+﻿.vs/
+*.user
+*.suo
+*.log
+*.cache
+*.vsidx
+/bin/
+/obj/
+/App_Data/*.mdb

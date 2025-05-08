@@ -1,0 +1,18 @@
+2025-05-08 19:14:08.5257 ERROR RSSparsing.aspx Page_Load içinde hata. System.Data.OleDb.OleDbException (0x80004005): 'C:\Users\OGUZHAN\Desktop\CENG\3. SINIF 2. DÖNEM\WEB BASED TECHNOLOGIES\OguzhanSarigol_HW5\OguzhanSarigol_HW5\App_Data\RSSdb.accdb' dosyası bulunamadı.
+   konum: System.Data.OleDb.OleDbConnectionInternal..ctor(OleDbConnectionString constr, OleDbConnection connection)
+   konum: System.Data.OleDb.OleDbConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningObject)
+   konum: System.Data.ProviderBase.DbConnectionFactory.CreateNonPooledConnection(DbConnection owningConnection, DbConnectionPoolGroup poolGroup, DbConnectionOptions userOptions)
+   konum: System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   konum: System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   konum: System.Data.ProviderBase.DbConnectionInternal.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   konum: System.Data.OleDb.OleDbConnection.Open()
+   konum: OguzhanSarigol_HW5.RSSparsing.Page_Load(Object sender, EventArgs e) C:\Users\OGUZHAN\Desktop\CENG\3. SINIF 2. DÖNEM\WEB BASED TECHNOLOGIES\OguzhanSarigol_HW5\OguzhanSarigol_HW5\RSSparsing.aspx.cs içinde: satır 69
+2025-05-08 19:14:21.4887 ERROR RSSparsing.aspx Page_Load içinde hata. System.Data.OleDb.OleDbException (0x80004005): 'C:\Users\OGUZHAN\Desktop\CENG\3. SINIF 2. DÖNEM\WEB BASED TECHNOLOGIES\OguzhanSarigol_HW5\OguzhanSarigol_HW5\App_Data\RSSdb.accdb' dosyası bulunamadı.
+   konum: System.Data.OleDb.OleDbConnectionInternal..ctor(OleDbConnectionString constr, OleDbConnection connection)
+   konum: System.Data.OleDb.OleDbConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningObject)
+   konum: System.Data.ProviderBase.DbConnectionFactory.CreateNonPooledConnection(DbConnection owningConnection, DbConnectionPoolGroup poolGroup, DbConnectionOptions userOptions)
+   konum: System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   konum: System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   konum: System.Data.ProviderBase.DbConnectionInternal.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   konum: System.Data.OleDb.OleDbConnection.Open()
+   konum: OguzhanSarigol_HW5.RSSparsing.Page_Load(Object sender, EventArgs e) C:\Users\OGUZHAN\Desktop\CENG\3. SINIF 2. DÖNEM\WEB BASED TECHNOLOGIES\OguzhanSarigol_HW5\OguzhanSarigol_HW5\RSSparsing.aspx.cs içinde: satır 69
