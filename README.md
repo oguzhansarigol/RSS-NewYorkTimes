@@ -21,11 +21,11 @@ Bu proje, .NET Web Forms teknolojisi kullanılarak geliştirilmiş bir haber çe
 
 ### Ana Sayfa
 
-![Ana Sayfa](Content/image1.png)
+![Ana Sayfa](OguzhanSarigol_HW5/Content/image1.png)
 
 ### Haber Detayı
 
-![Haber Detayı](Content/image2.png)
+![Haber Detayı](OguzhanSarigol_HW5/Content/image2.png)
 
 ## Kullanılan Teknolojiler
 
